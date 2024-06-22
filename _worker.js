@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://s.hjq13.dynv6.net/sub?format=clash&host=a.hjqx.xyz&uuid=33b2533e-5ceb-4b7f-db57-22c13e73f807&path=/?ed=2048
+https://workervless2sub-bke.pages.dev/sub?format=clash&host=a.hjqx.xyz&uuid=33b2533e-5ceb-4b7f-db57-22c13e73f807&path=/?ed=2048
 hysteria2://chika@158.179.168.237:32417?sni=c.hjqx.xyz#amd
 `
 
