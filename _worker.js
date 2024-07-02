@@ -16,7 +16,9 @@ https://workervless2sub-bke.pages.dev/sub?format=clash&host=a.hjqx.xyz&uuid=33b2
 hysteria2://chika@158.179.168.237:32417?sni=c.hjqx.xyz#amd
 `
 
-let urls = [];
+let urls = [
+	'https://s.hjq13.dynv6.net/sub?host=a.hjqx.xyz&uuid=33b2533e-5ceb-4b7f-db57-22c13e73f807&path=/?ed=2048',
+	   ];
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/fhxoanjw/main/main/ACL4SSR_Online_MultiCountry_CFini.txt"; //订阅配置文件
 
